@@ -1,3 +1,7 @@
+:host{
+
+  ::ng-deep upscale-aspect-ratio {
+
 .aboutUs__image-right {
   width: 400px;
   margin: 20px;
@@ -75,4 +79,6 @@
 }
 .aboutUs__header-sub--inText {
   text-align: left;
+}
+}
 }
