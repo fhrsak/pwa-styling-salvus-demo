@@ -1,0 +1,78 @@
+.aboutUs__image-right {
+  width: 400px;
+  margin: 20px;
+}
+.aboutUs__image-left {
+  width: 400px;
+  margin-right: 20px;
+}
+.prvi-red-o-nama {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.prvi-red-text {
+  width: 400px;
+}
+.aboutUs__text-right {
+  width: 400px;
+}
+
+.drugi-red-o-nama {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.aboutUs__header-sub--center,
+.aboutUs__header-sub--inText-findUs {
+  text-align: center;
+  margin-top: 4rem;
+}
+.aboutUs__brands-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}
+.aboutUs__brands-list-item {
+  width: 180px;
+  font-weight: bold;
+  font-size: large;
+}
+.flex-nadjite-nas {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.text-nadjite-nas {
+  width: 400px;
+}
+.aboutUs__products-list {
+  list-style: none;
+  display: flex;
+  margin-top: 4rem;
+}
+.aboutUs__products-list-item {
+  width: 180px;
+}
+.aboutUs__products-list-item--number,
+.aboutUs__products-list-item--text {
+  display: block;
+  text-align: center;
+}
+.aboutUs__products-list-item--number {
+  font-weight: bold;
+  font-size: large;
+}
+.aboutUs__header-main {
+  text-align: center;
+}
+.o-nama-vanjski-div {
+  width: 80vw;
+  margin: 0 auto;
+}
+.aboutUs__header-sub--inText {
+  text-align: left;
+}
